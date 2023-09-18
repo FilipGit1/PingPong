@@ -1,1 +1,1 @@
-# PingPong
+# PingPong - table tenis
